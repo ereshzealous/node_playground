@@ -1,0 +1,4779 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 1,
+      "NAME": "Sumas",
+      "CountySeat": null,
+      "GNIS": 2412000,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 73,
+      "CityFIPS": "5368330WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.264923557847354, 49.00004692672551]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 2,
+      "NAME": "Blaine",
+      "CountySeat": null,
+      "GNIS": 2409860,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 73,
+      "CityFIPS": "5306505WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.751607427763062, 48.993898316358305]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 3,
+      "NAME": "Lynden",
+      "CountySeat": null,
+      "GNIS": 2410899,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 73,
+      "CityFIPS": "5340805WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.448155606136766, 48.94426422733595]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 4,
+      "NAME": "Oroville",
+      "CountySeat": null,
+      "GNIS": 2411338,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5351970WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.435270180574435, 48.939118916952992]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 5,
+      "NAME": "Nooksack",
+      "CountySeat": null,
+      "GNIS": 2411263,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 73,
+      "CityFIPS": "5349275WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.32211188060954, 48.920150433065174]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 6,
+      "NAME": "Everson",
+      "CountySeat": null,
+      "GNIS": 2410471,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 73,
+      "CityFIPS": "5322745WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.342899499448635, 48.920120072167805]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 7,
+      "NAME": "Northport",
+      "CountySeat": null,
+      "GNIS": 2413056,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 65,
+      "CityFIPS": "5350045WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78179588658989, 48.916074715147147]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 8,
+      "NAME": "Ferndale",
+      "CountySeat": null,
+      "GNIS": 2410498,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 73,
+      "CityFIPS": "5323620WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.5910518034852, 48.846796905189152]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 9,
+      "NAME": "Metaline Falls",
+      "CountySeat": null,
+      "GNIS": 2412990,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 51,
+      "CityFIPS": "5345320WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.370379522931557, 48.861198378763504]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 10,
+      "NAME": "Metaline",
+      "CountySeat": null,
+      "GNIS": 2412989,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 51,
+      "CityFIPS": "5345285WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.390478437593671, 48.851472995949472]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 11,
+      "NAME": "Bellingham",
+      "CountySeat": "yes",
+      "GNIS": 2409823,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 73,
+      "CityFIPS": "5305280WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.477194077949122, 48.748474188273406]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 12,
+      "NAME": "Ione",
+      "CountySeat": null,
+      "GNIS": 2412795,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 51,
+      "CityFIPS": "5333560WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.417901572024533, 48.741863237857643]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 13,
+      "NAME": "Tonasket",
+      "CountySeat": null,
+      "GNIS": 2412082,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5371890WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.441199313812021, 48.702931031977059]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 14,
+      "NAME": "Marcus",
+      "CountySeat": null,
+      "GNIS": 2412955,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 65,
+      "CityFIPS": "5343395WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.062616991193963, 48.663506225012597]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 15,
+      "NAME": "Republic",
+      "CountySeat": "yes",
+      "GNIS": 2410927,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 19,
+      "CityFIPS": "5357850WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.738125692770339, 48.647719535773838]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 16,
+      "NAME": "Kettle Falls",
+      "CountySeat": null,
+      "GNIS": 2411540,
+      "LastUpdate": "2007/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 65,
+      "CityFIPS": "5335485WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.055878055210172, 48.605712073867679]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 17,
+      "NAME": "Colville",
+      "CountySeat": "yes",
+      "GNIS": 2410205,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 65,
+      "CityFIPS": "5314170WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.905809717442253, 48.544424498278218]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 18,
+      "NAME": "Conconully",
+      "CountySeat": null,
+      "GNIS": 2413236,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5314310WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.750702856560451, 48.560488894625287]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 19,
+      "NAME": "Concrete",
+      "CountySeat": null,
+      "GNIS": 2413237,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5314380WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.759019897739535, 48.538497294545358]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 20,
+      "NAME": "Friday Harbor",
+      "CountySeat": "yes",
+      "GNIS": 2412659,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 55,
+      "CityFIPS": "5325615WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.016848666268828, 48.534264844370554]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 21,
+      "NAME": "Hamilton",
+      "CountySeat": null,
+      "GNIS": 2412721,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5329255WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.991169303548858, 48.522306086749772]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 22,
+      "NAME": "Lyman",
+      "CountySeat": null,
+      "GNIS": 2412927,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5340770WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.060895310269629, 48.526603717377185]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 23,
+      "NAME": "Sedro-Woolley",
+      "CountySeat": null,
+      "GNIS": 2411859,
+      "LastUpdate": "2006/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5363210WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.237502767271593, 48.503229226874673]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 24,
+      "NAME": "Anacortes",
+      "CountySeat": null,
+      "GNIS": 2409702,
+      "LastUpdate": "2006/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 57,
+      "CityFIPS": "5301990WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.612606935242354, 48.516602542310437]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 25,
+      "NAME": "Riverside",
+      "CountySeat": null,
+      "GNIS": 2412556,
+      "LastUpdate": "2007/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5358795WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.50595507557, 48.502462387191571]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 26,
+      "NAME": "Burlington",
+      "CountySeat": null,
+      "GNIS": 2409947,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5308920WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.330712369356547, 48.477072907444168]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 27,
+      "NAME": "Winthrop",
+      "CountySeat": null,
+      "GNIS": 2413503,
+      "LastUpdate": "2007/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5379380WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.185423202280631, 48.477809647060631]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 28,
+      "NAME": "Mount Vernon",
+      "CountySeat": "yes",
+      "GNIS": 2411183,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 57,
+      "CityFIPS": "5347560WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.337842219784577, 48.419323640120183]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 29,
+      "NAME": "Omak",
+      "CountySeat": null,
+      "GNIS": 2411320,
+      "LastUpdate": "2007/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 47,
+      "CityFIPS": "5351340WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.528458776675265, 48.410824044931303]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 30,
+      "NAME": "La Conner",
+      "CountySeat": null,
+      "GNIS": 2412852,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 57,
+      "CityFIPS": "5336780WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.494987104673413, 48.392161149273655]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 31,
+      "NAME": "Okanogan",
+      "CountySeat": "yes",
+      "GNIS": 2411309,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 47,
+      "CityFIPS": "5350920WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.579948890250719, 48.364475446589942]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 32,
+      "NAME": "Twisp",
+      "CountySeat": null,
+      "GNIS": 2413408,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5373080WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.122532904635392, 48.365280399370384]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 33,
+      "NAME": "Cusick",
+      "CountySeat": null,
+      "GNIS": 2412397,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 51,
+      "CityFIPS": "5316340WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.294715353968172, 48.335918128196248]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 34,
+      "NAME": "Chewelah",
+      "CountySeat": null,
+      "GNIS": 2409444,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 65,
+      "CityFIPS": "5312140WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.715509194867522, 48.276239244151895]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 35,
+      "NAME": "Darrington",
+      "CountySeat": null,
+      "GNIS": 2412405,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5316690WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.604607752916493, 48.25295557785077]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 36,
+      "NAME": "Stanwood",
+      "CountySeat": null,
+      "GNIS": 2411971,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5367455WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.365912580549576, 48.241582783335389]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 37,
+      "NAME": "Coupeville",
+      "CountySeat": "yes",
+      "GNIS": 2412377,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 29,
+      "CityFIPS": "5315185WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.686145272267154, 48.220414760437087]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 38,
+      "NAME": "Arlington",
+      "CountySeat": null,
+      "GNIS": 2409732,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5302585WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.125221105178284, 48.192368790323307]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 39,
+      "NAME": "Newport",
+      "CountySeat": "yes",
+      "GNIS": 2411249,
+      "LastUpdate": "2007/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 51,
+      "CityFIPS": "5348820WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.043984418110568, 48.181099602096651]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 40,
+      "NAME": "Nespelem",
+      "CountySeat": null,
+      "GNIS": 2413040,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5348540WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.975138064909842, 48.165693815934766]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 41,
+      "NAME": "Marysville",
+      "CountySeat": null,
+      "GNIS": 2411047,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5343955WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.176962662808492, 48.051740602590456]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 42,
+      "NAME": "Port Townsend",
+      "CountySeat": "yes",
+      "GNIS": 2411468,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 31,
+      "CityFIPS": "5355855WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.756540664188307, 48.114365836336169]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 43,
+      "NAME": "Port Angeles",
+      "CountySeat": "yes",
+      "GNIS": 2411459,
+      "LastUpdate": "2007/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 9,
+      "CityFIPS": "5355365WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.431608555140528, 48.118218415907442]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 44,
+      "NAME": "Brewster",
+      "CountySeat": null,
+      "GNIS": 2409903,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5307835WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.780912219382671, 48.09919005396668]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 45,
+      "NAME": "Granite Falls",
+      "CountySeat": null,
+      "GNIS": 2410643,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5327995WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.969457681195607, 48.08325570790474]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 46,
+      "NAME": "Sequim",
+      "CountySeat": null,
+      "GNIS": 2411868,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 9,
+      "CityFIPS": "5363385WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.102312478219659, 48.079547309034872]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 47,
+      "NAME": "Springdale",
+      "CountySeat": null,
+      "GNIS": 2413320,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 65,
+      "CityFIPS": "5367210WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.741460085077748, 48.057477429451538]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 48,
+      "NAME": "Pateros",
+      "CountySeat": null,
+      "GNIS": 2411382,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5353720WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.899792276728363, 48.055019296556466]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 49,
+      "NAME": "Langley",
+      "CountySeat": null,
+      "GNIS": 2411623,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 29,
+      "CityFIPS": "5338355WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.406100733237508, 48.039845468977163]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 50,
+      "NAME": "Everett",
+      "CountySeat": "yes",
+      "GNIS": 2410469,
+      "LastUpdate": "2007/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 61,
+      "CityFIPS": "5322640WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.208610631586836, 47.979206707701323]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 51,
+      "NAME": "Lake Stevens",
+      "CountySeat": null,
+      "GNIS": 2411607,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5337900WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.063688392799634, 48.015458089339674]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 52,
+      "NAME": "Bridgeport",
+      "CountySeat": null,
+      "GNIS": 2409908,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 17,
+      "CityFIPS": "5307870WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.671847966624767, 48.008400533831356]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 53,
+      "NAME": "Elmer City",
+      "CountySeat": null,
+      "GNIS": 2412478,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5321485WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.953863655153384, 47.998227793041274]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 54,
+      "NAME": "Deer Park",
+      "CountySeat": null,
+      "GNIS": 2410312,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5317320WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.476945555116615, 47.954212419444062]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 55,
+      "NAME": "Coulee Dam",
+      "CountySeat": null,
+      "GNIS": 2413249,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 47,
+      "CityFIPS": "5315115WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.979607571570838, 47.96562889179711]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 56,
+      "NAME": "Forks",
+      "CountySeat": null,
+      "GNIS": 2410520,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 9,
+      "CityFIPS": "5324810WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.385349635296123, 47.951350270856331]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 57,
+      "NAME": "Mukilteo",
+      "CountySeat": null,
+      "GNIS": 2411192,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5347735WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.304451340982368, 47.944474772137752]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 58,
+      "NAME": "Grand Coulee",
+      "CountySeat": null,
+      "GNIS": 2410630,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5327855WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.003552094703736, 47.93858809835784]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 59,
+      "NAME": "Snohomish",
+      "CountySeat": null,
+      "GNIS": 2411913,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5365170WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.098564024500149, 47.913006027662981]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 60,
+      "NAME": "Electric City",
+      "CountySeat": null,
+      "GNIS": 2412472,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5321030WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.038530218451271, 47.932230896967759]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 61,
+      "NAME": "Sultan",
+      "CountySeat": null,
+      "GNIS": 2411999,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5368260WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.810481534836299, 47.866301327639292]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 62,
+      "NAME": "Monroe",
+      "CountySeat": null,
+      "GNIS": 2411137,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 61,
+      "CityFIPS": "5346685WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.970665709234609, 47.855845034473056]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 63,
+      "NAME": "Mill Creek",
+      "CountySeat": null,
+      "GNIS": 2411108,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5345865WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.217452489458154, 47.849579249520538]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 64,
+      "NAME": "Gold Bar",
+      "CountySeat": null,
+      "GNIS": 2410608,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5327365WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.695098121203785, 47.853675847143926]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 65,
+      "NAME": "Chelan",
+      "CountySeat": null,
+      "GNIS": 2409440,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 7,
+      "CityFIPS": "5311615WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.014837624346939, 47.839889846835035]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 66,
+      "NAME": "Edmonds",
+      "CountySeat": null,
+      "GNIS": 2410403,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 61,
+      "CityFIPS": "5320750WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.377515623440786, 47.810453990001484]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 67,
+      "NAME": "Lynnwood",
+      "CountySeat": null,
+      "GNIS": 2410900,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5340840WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.315235721157705, 47.821205683483143]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 68,
+      "NAME": "Index",
+      "CountySeat": null,
+      "GNIS": 2412790,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5333175WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.553982569341187, 47.820085305317377]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 69,
+      "NAME": "Mansfield",
+      "CountySeat": null,
+      "GNIS": 2412946,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 17,
+      "CityFIPS": "5342800WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.63712723788295, 47.81146176422854]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 70,
+      "NAME": "Bothell",
+      "CountySeat": null,
+      "GNIS": 2409882,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5307380WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.205594098745877, 47.760094863958273]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 71,
+      "NAME": "Mountlake Terrace",
+      "CountySeat": null,
+      "GNIS": 2411187,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5347490WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.308415819755254, 47.790263311990891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 72,
+      "NAME": "Brier",
+      "CountySeat": null,
+      "GNIS": 2409909,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5307940WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.274191320291834, 47.791770902538651]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 73,
+      "NAME": "Woodway",
+      "CountySeat": null,
+      "GNIS": 2412307,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 61,
+      "CityFIPS": "5379835WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.385629198631023, 47.783244084731166]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 74,
+      "NAME": "Shoreline",
+      "CountySeat": null,
+      "GNIS": 2411893,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5363960WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.34587048005335, 47.756003324133417]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 75,
+      "NAME": "Lake Forest Park",
+      "CountySeat": null,
+      "GNIS": 2411603,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5337270WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.276377471819387, 47.753552747538834]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 76,
+      "NAME": "Kenmore",
+      "CountySeat": null,
+      "GNIS": 2410181,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5335170WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.249716369857438, 47.758249600625412]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 77,
+      "NAME": "Woodinville",
+      "CountySeat": null,
+      "GNIS": 2412298,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5379590WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.165322685460296, 47.754502547619339]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 78,
+      "NAME": "Poulsbo",
+      "CountySeat": null,
+      "GNIS": 2411479,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 35,
+      "CityFIPS": "5355995WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.646976102511474, 47.735169672926261]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 79,
+      "NAME": "Creston",
+      "CountySeat": null,
+      "GNIS": 2412386,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5315710WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.519689435794206, 47.758634720899202]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 80,
+      "NAME": "Wilbur",
+      "CountySeat": null,
+      "GNIS": 2413487,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5378680WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.709167841737113, 47.759460109727016]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 81,
+      "NAME": "Spokane",
+      "CountySeat": "yes",
+      "GNIS": 2411956,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 63,
+      "CityFIPS": "5367000WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.421096389659553, 47.657863549921061]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 82,
+      "NAME": "Duvall",
+      "CountySeat": null,
+      "GNIS": 2410377,
+      "LastUpdate": "2007/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5319035WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.985741265633635, 47.74308616837709]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 83,
+      "NAME": "Seattle",
+      "CountySeat": "yes",
+      "GNIS": 2411856,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 33,
+      "CityFIPS": "5363000WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.337576551276484, 47.611270068571891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 84,
+      "NAME": "Bainbridge Island",
+      "CountySeat": null,
+      "GNIS": 2409770,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 35,
+      "CityFIPS": "5303736WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.520833383397544, 47.62471310583139]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 85,
+      "NAME": "Kirkland",
+      "CountySeat": null,
+      "GNIS": 2411552,
+      "LastUpdate": "2006/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5335940WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.206516437661719, 47.675414720780743]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 86,
+      "NAME": "Almira",
+      "CountySeat": null,
+      "GNIS": 2412352,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5301500WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.940827232013618, 47.710880313104568]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 87,
+      "NAME": "Skykomish",
+      "CountySeat": null,
+      "GNIS": 2413295,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5364855WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.360706866786686, 47.709289809956395]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 88,
+      "NAME": "Redmond",
+      "CountySeat": null,
+      "GNIS": 2411534,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5357535WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.121629420265194, 47.674045438866678]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 89,
+      "NAME": "Spokane Valley",
+      "CountySeat": null,
+      "GNIS": 2411957,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 63,
+      "CityFIPS": "5367167WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.239784503961346, 47.657125431956963]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 90,
+      "NAME": "Entiat",
+      "CountySeat": null,
+      "GNIS": 2410447,
+      "LastUpdate": "2006/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 7,
+      "CityFIPS": "5322010WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.218452416193941, 47.668999672870704]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 91,
+      "NAME": "Hartline",
+      "CountySeat": null,
+      "GNIS": 2412729,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5329920WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.108206821564877, 47.690353474480098]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 92,
+      "NAME": "Millwood",
+      "CountySeat": null,
+      "GNIS": 2413003,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5345985WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.282833043198536, 47.687622396974561]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 93,
+      "NAME": "Liberty Lake",
+      "CountySeat": null,
+      "GNIS": 2410834,
+      "LastUpdate": "2006/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5339335WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.104887739252788, 47.667798671481641]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 94,
+      "NAME": "Reardan",
+      "CountySeat": null,
+      "GNIS": 2412534,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5357465WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.877891444726117, 47.669497972364034]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 95,
+      "NAME": "Airway Heights",
+      "CountySeat": null,
+      "GNIS": 2409668,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5300905WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.582377869911085, 47.642826279886677]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 96,
+      "NAME": "Davenport",
+      "CountySeat": "yes",
+      "GNIS": 2410295,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 43,
+      "CityFIPS": "5316795WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.149772730963818, 47.653996664782099]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 97,
+      "NAME": "Bellevue",
+      "CountySeat": null,
+      "GNIS": 2409821,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 33,
+      "CityFIPS": "5305210WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.201456114489361, 47.617392855936004]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 98,
+      "NAME": "Sammamish",
+      "CountySeat": null,
+      "GNIS": 2411772,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5361115WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.035549397491948, 47.616551519422337]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 99,
+      "NAME": "Waterville",
+      "CountySeat": "yes",
+      "GNIS": 2413455,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 17,
+      "CityFIPS": "5376510WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.071480417838174, 47.647422089536299]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 100,
+      "NAME": "Carnation",
+      "CountySeat": null,
+      "GNIS": 2409989,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5310215WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.914337449589468, 47.647838355721838]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 101,
+      "NAME": "Yarrow Point",
+      "CountySeat": null,
+      "GNIS": 2413520,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5380150WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.21763366472716, 47.642949831861657]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 102,
+      "NAME": "Hunts Point",
+      "CountySeat": null,
+      "GNIS": 2412782,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5332755WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.228625334510269, 47.639261297894357]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 103,
+      "NAME": "Medina",
+      "CountySeat": null,
+      "GNIS": 2411071,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5344725WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.238865429346802, 47.616164615497212]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 104,
+      "NAME": "Clyde Hill",
+      "CountySeat": null,
+      "GNIS": 2409492,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5313365WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.217794060296882, 47.631918200733217]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 105,
+      "NAME": "Coulee City",
+      "CountySeat": null,
+      "GNIS": 2413248,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5315080WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.290412853617298, 47.611169629609314]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 106,
+      "NAME": "Bremerton",
+      "CountySeat": null,
+      "GNIS": 2409899,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 35,
+      "CityFIPS": "5307695WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.626965375076153, 47.564208933069381]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 107,
+      "NAME": "Leavenworth",
+      "CountySeat": null,
+      "GNIS": 2410814,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 7,
+      "CityFIPS": "5338845WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.661723332777868, 47.596151015999062]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 108,
+      "NAME": "Mercer Island",
+      "CountySeat": null,
+      "GNIS": 2411082,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5345005WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.235049183958182, 47.586659066452448]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 109,
+      "NAME": "Medical Lake",
+      "CountySeat": null,
+      "GNIS": 2411070,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5344690WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.682719960905203, 47.575665164815796]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 110,
+      "NAME": "Beaux Arts",
+      "CountySeat": null,
+      "GNIS": 2411673,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5304895WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.198524317278384, 47.585110845503237]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 111,
+      "NAME": "Issaquah",
+      "CountySeat": null,
+      "GNIS": 2410123,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5333805WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.036531528634157, 47.530045224875742]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 112,
+      "NAME": "Port Orchard",
+      "CountySeat": "yes",
+      "GNIS": 2411466,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 35,
+      "CityFIPS": "5355785WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.636254678559581, 47.541770502818224]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 113,
+      "NAME": "Newcastle",
+      "CountySeat": null,
+      "GNIS": 2411243,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5348645WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.165695522523009, 47.537791199558818]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 114,
+      "NAME": "Renton",
+      "CountySeat": null,
+      "GNIS": 2410926,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 33,
+      "CityFIPS": "5357745WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.207717179400447, 47.479740738567415]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 115,
+      "NAME": "Tukwila",
+      "CountySeat": null,
+      "GNIS": 2412106,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5372625WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.258562969119865, 47.463331221097924]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 116,
+      "NAME": "Cashmere",
+      "CountySeat": null,
+      "GNIS": 2409405,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 7,
+      "CityFIPS": "5310495WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.47008002805434, 47.522133752057705]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 117,
+      "NAME": "Cheney",
+      "CountySeat": null,
+      "GNIS": 2409441,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 63,
+      "CityFIPS": "5311825WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.575913609713353, 47.486796511249317]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 118,
+      "NAME": "North Bend",
+      "CountySeat": null,
+      "GNIS": 2411270,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5349485WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.786940167628828, 47.495481956303259]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 119,
+      "NAME": "Burien",
+      "CountySeat": null,
+      "GNIS": 2409940,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5308850WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.339162540633936, 47.466850411906655]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 120,
+      "NAME": "SeaTac",
+      "CountySeat": null,
+      "GNIS": 2411855,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5362288WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.295480792078052, 47.434500515176744]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 121,
+      "NAME": "Harrington",
+      "CountySeat": null,
+      "GNIS": 2410706,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5329745WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.25463910849831, 47.480795704879085]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 122,
+      "NAME": "Wenatchee",
+      "CountySeat": "yes",
+      "GNIS": 2412212,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 7,
+      "CityFIPS": "5377105WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.310406860099945, 47.42342827005038]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 123,
+      "NAME": "Normandy Park",
+      "CountySeat": null,
+      "GNIS": 2411268,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5349415WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.339654296155487, 47.439956932927991]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 124,
+      "NAME": "Rockford",
+      "CountySeat": null,
+      "GNIS": 2412562,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5359145WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.132044212488154, 47.452185735395489]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 125,
+      "NAME": "Kent",
+      "CountySeat": null,
+      "GNIS": 2410185,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 33,
+      "CityFIPS": "5335415WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.23729517289766, 47.381436905702735]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 126,
+      "NAME": "East Wenatchee",
+      "CountySeat": null,
+      "GNIS": 2410391,
+      "LastUpdate": "2006/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 17,
+      "CityFIPS": "5320155WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.293196221028126, 47.415617215573157]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 127,
+      "NAME": "Spangle",
+      "CountySeat": null,
+      "GNIS": 2413311,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5366290WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.379542979758213, 47.427879226461179]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 128,
+      "NAME": "Des Moines",
+      "CountySeat": null,
+      "GNIS": 2410327,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5317635WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.325906938819145, 47.397878932665286]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 129,
+      "NAME": "Wilson Creek",
+      "CountySeat": null,
+      "GNIS": 2413492,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5379135WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.126938958947434, 47.422435502441701]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 130,
+      "NAME": "Krupp",
+      "CountySeat": null,
+      "GNIS": 2412849,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5336395WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.984365590540108, 47.408313706539921]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 131,
+      "NAME": "Soap Lake",
+      "CountySeat": null,
+      "GNIS": 2411918,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5365345WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.490598667660294, 47.388859934436482]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 132,
+      "NAME": "Maple Valley",
+      "CountySeat": null,
+      "GNIS": 2411028,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5343150WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.020903790881732, 47.361322823515529]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 133,
+      "NAME": "Fairfield",
+      "CountySeat": null,
+      "GNIS": 2412612,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5322990WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.172027009520562, 47.385193417476927]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 134,
+      "NAME": "Covington",
+      "CountySeat": null,
+      "GNIS": 2410253,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5315290WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.107398723847865, 47.358019718426199]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 135,
+      "NAME": "Rock Island",
+      "CountySeat": null,
+      "GNIS": 2410975,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 17,
+      "CityFIPS": "5359180WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.141867266851776, 47.374556656252416]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 136,
+      "NAME": "Gig Harbor",
+      "CountySeat": null,
+      "GNIS": 2410588,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5326735WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.581033665743973, 47.329249282748123]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 137,
+      "NAME": "Federal Way",
+      "CountySeat": null,
+      "GNIS": 2410494,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 33,
+      "CityFIPS": "5323515WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.313241004211264, 47.315113753306342]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 138,
+      "NAME": "Auburn",
+      "CountySeat": null,
+      "GNIS": 2409755,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5303180WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.228547255159569, 47.307335391939134]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 139,
+      "NAME": "Waverly",
+      "CountySeat": null,
+      "GNIS": 2413458,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5376720WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.227767676881513, 47.342630203635125]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 140,
+      "NAME": "Black Diamond",
+      "CountySeat": null,
+      "GNIS": 2409855,
+      "LastUpdate": "2006/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5306330WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.003545739689272, 47.309048853947942]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 141,
+      "NAME": "Ephrata",
+      "CountySeat": "yes",
+      "GNIS": 2410450,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 25,
+      "CityFIPS": "5322080WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.551579277571847, 47.32072791045784]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 142,
+      "NAME": "Odessa",
+      "CountySeat": null,
+      "GNIS": 2413073,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5350745WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.692202360318504, 47.333294337072125]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 143,
+      "NAME": "Sprague",
+      "CountySeat": null,
+      "GNIS": 2411958,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 43,
+      "CityFIPS": "5367175WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.975826388598136, 47.300146594157184]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 144,
+      "NAME": "Ruston",
+      "CountySeat": null,
+      "GNIS": 2412586,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5360510WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.513070477694612, 47.298051450851958]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 145,
+      "NAME": "Algona",
+      "CountySeat": null,
+      "GNIS": 2409680,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5301290WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.249793548064659, 47.278909869563456]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 146,
+      "NAME": "Latah",
+      "CountySeat": null,
+      "GNIS": 2412879,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 63,
+      "CityFIPS": "5338495WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.155750462822823, 47.279629370149962]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 147,
+      "NAME": "Pacific",
+      "CountySeat": null,
+      "GNIS": 2411349,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5352495WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.249979576463716, 47.264575638933835]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 148,
+      "NAME": "Milton",
+      "CountySeat": null,
+      "GNIS": 2411114,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5346020WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3148093607265, 47.248298381679525]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 149,
+      "NAME": "Sumner",
+      "CountySeat": null,
+      "GNIS": 2412001,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5368435WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.240603704720371, 47.203229782412642]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 150,
+      "NAME": "Edgewood",
+      "CountySeat": null,
+      "GNIS": 2410400,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5320645WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.294018697135868, 47.235528056387103]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 151,
+      "NAME": "Fife",
+      "CountySeat": null,
+      "GNIS": 2410502,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5323795WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.35687395740851, 47.24304062321886]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 152,
+      "NAME": "Rosalia",
+      "CountySeat": null,
+      "GNIS": 2412576,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5359775WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.369826450226469, 47.235980183352765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 153,
+      "NAME": "Quincy",
+      "CountySeat": null,
+      "GNIS": 2411507,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5357115WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.853324743689697, 47.233486097247436]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 154,
+      "NAME": "Shelton",
+      "CountySeat": "yes",
+      "GNIS": 2411882,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 45,
+      "CityFIPS": "5363735WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.100066029207241, 47.212694154707698]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 155,
+      "NAME": "University Place",
+      "CountySeat": null,
+      "GNIS": 2412136,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5373465WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.537248141729648, 47.220849695234875]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 156,
+      "NAME": "Fircrest",
+      "CountySeat": null,
+      "GNIS": 2410506,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5323970WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.516539634005696, 47.239057873410758]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 157,
+      "NAME": "Malden",
+      "CountySeat": null,
+      "GNIS": 2412933,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5342275WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.472832848933095, 47.229630941779689]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 158,
+      "NAME": "Tekoa",
+      "CountySeat": null,
+      "GNIS": 2412043,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5370560WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.072911343517035, 47.223118869544983]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 159,
+      "NAME": "Roslyn",
+      "CountySeat": null,
+      "GNIS": 2411001,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 37,
+      "CityFIPS": "5360055WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.995919374809333, 47.225808173563784]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 160,
+      "NAME": "Enumclaw",
+      "CountySeat": null,
+      "GNIS": 2410448,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5322045WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.991561485147798, 47.204385019045823]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 161,
+      "NAME": "Puyallup",
+      "CountySeat": null,
+      "GNIS": 2411504,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 53,
+      "CityFIPS": "5356695WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.293728235892331, 47.190434107543958]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 162,
+      "NAME": "Bonney Lake",
+      "CountySeat": null,
+      "GNIS": 2409880,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5307170WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.184170984569818, 47.178000129409888]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 163,
+      "NAME": "Cle Elum",
+      "CountySeat": null,
+      "GNIS": 2409476,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 37,
+      "CityFIPS": "5312945WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.940372838791063, 47.195134072110335]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 164,
+      "NAME": "Lamont",
+      "CountySeat": null,
+      "GNIS": 2412875,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5338215WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.905593232283607, 47.201733546573038]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 165,
+      "NAME": "Lakewood",
+      "CountySeat": null,
+      "GNIS": 2411615,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 53,
+      "CityFIPS": "5338038WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.515740028292313, 47.161997280117809]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 166,
+      "NAME": "South Cle Elum",
+      "CountySeat": null,
+      "GNIS": 2413305,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 37,
+      "CityFIPS": "5365765WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.952081489900877, 47.185303672864691]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 167,
+      "NAME": "Steilacoom",
+      "CountySeat": null,
+      "GNIS": 2413332,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5367770WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.597508651812717, 47.17319490297163]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 168,
+      "NAME": "Buckley",
+      "CountySeat": null,
+      "GNIS": 2409929,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5308570WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.027218780331438, 47.16275050277244]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 169,
+      "NAME": "Moses Lake",
+      "CountySeat": null,
+      "GNIS": 2411173,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 25,
+      "CityFIPS": "5347245WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.278029519678284, 47.130081341951644]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 170,
+      "NAME": "South Prairie",
+      "CountySeat": null,
+      "GNIS": 2413310,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5366045WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.097970629739436, 47.139237662950109]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 171,
+      "NAME": "Oakesdale",
+      "CountySeat": null,
+      "GNIS": 2413067,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5350325WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.242562792924403, 47.128225475856055]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 172,
+      "NAME": "Ritzville",
+      "CountySeat": "yes",
+      "GNIS": 2410959,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 1,
+      "CityFIPS": "5358725WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.379857924511001, 47.127498886949354]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 173,
+      "NAME": "DuPont",
+      "CountySeat": null,
+      "GNIS": 2410373,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5318965WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.630115735327422, 47.096106626368211]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 174,
+      "NAME": "Orting",
+      "CountySeat": null,
+      "GNIS": 2411339,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5352005WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.204452951783324, 47.09784796729874]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 175,
+      "NAME": "Lacey",
+      "CountySeat": null,
+      "GNIS": 2411588,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5336745WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.823323785494978, 47.035850303048868]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 176,
+      "NAME": "Wilkeson",
+      "CountySeat": null,
+      "GNIS": 2413489,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5378925WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.04637906875476, 47.105278653366739]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 177,
+      "NAME": "Farmington",
+      "CountySeat": null,
+      "GNIS": 2412622,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5323340WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.044851076115108, 47.089153912612076]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 178,
+      "NAME": "Saint John",
+      "CountySeat": null,
+      "GNIS": 2412595,
+      "LastUpdate": "2006/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5360860WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.581404484268504, 47.091793160990562]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 179,
+      "NAME": "George",
+      "CountySeat": null,
+      "GNIS": 2410581,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5326455WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.855851624511118, 47.080310499144268]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 180,
+      "NAME": "Carbonado",
+      "CountySeat": null,
+      "GNIS": 2413165,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5309970WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.053542203447051, 47.077875194724179]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 181,
+      "NAME": "Olympia",
+      "CountySeat": "yes",
+      "GNIS": 2411318,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 67,
+      "CityFIPS": "5351300WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.901693995529683, 47.044884002443901]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 182,
+      "NAME": "McCleary",
+      "CountySeat": null,
+      "GNIS": 2411061,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5341225WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.265199533485841, 47.055562727807214]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 183,
+      "NAME": "Montesano",
+      "CountySeat": "yes",
+      "GNIS": 2411147,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 27,
+      "CityFIPS": "5346895WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.600828392844107, 46.97941069683165]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 184,
+      "NAME": "Tumwater",
+      "CountySeat": null,
+      "GNIS": 2412111,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5372905WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.911770212856922, 46.985519895589924]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 185,
+      "NAME": "Ellensburg",
+      "CountySeat": "yes",
+      "GNIS": 2410430,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 37,
+      "CityFIPS": "5321240WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.548749369120188, 46.99451130031558]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 186,
+      "NAME": "Hoquiam",
+      "CountySeat": null,
+      "GNIS": 2410792,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 27,
+      "CityFIPS": "5332300WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.886339608838725, 46.978774437568092]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 187,
+      "NAME": "Garfield",
+      "CountySeat": null,
+      "GNIS": 2412669,
+      "LastUpdate": "2007/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5326140WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.140991751509688, 47.007007769614212]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 188,
+      "NAME": "Elma",
+      "CountySeat": null,
+      "GNIS": 2410431,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5321450WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.403865751506004, 47.004182292757648]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 189,
+      "NAME": "Ocean Shores",
+      "CountySeat": null,
+      "GNIS": 2411300,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5350570WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.161245046875166, 47.007365827515763]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 190,
+      "NAME": "Roy",
+      "CountySeat": null,
+      "GNIS": 2411010,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5360160WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.544051572097175, 47.001850181694458]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 191,
+      "NAME": "Aberdeen",
+      "CountySeat": null,
+      "GNIS": 2409655,
+      "LastUpdate": "2006/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 27,
+      "CityFIPS": "5300100WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.815868779457389, 46.976029417452821]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 192,
+      "NAME": "Kittitas",
+      "CountySeat": null,
+      "GNIS": 2411553,
+      "LastUpdate": "2007/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 37,
+      "CityFIPS": "5336045WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.417546140208898, 46.983230047181664]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 193,
+      "NAME": "Warden",
+      "CountySeat": null,
+      "GNIS": 2412179,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5376160WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.040413231439175, 46.969738036700171]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 194,
+      "NAME": "Lind",
+      "CountySeat": null,
+      "GNIS": 2412899,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 1,
+      "CityFIPS": "5339510WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.61561237928349, 46.971864593210746]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 195,
+      "NAME": "Cosmopolis",
+      "CountySeat": null,
+      "GNIS": 2410238,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5314870WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.771021109084657, 46.955796873715052]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 196,
+      "NAME": "Yelm",
+      "CountySeat": null,
+      "GNIS": 2412317,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5380220WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.606573380067516, 46.941783643255484]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 197,
+      "NAME": "Endicott",
+      "CountySeat": null,
+      "GNIS": 2412488,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5321730WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.685594763737683, 46.928130912179057]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 198,
+      "NAME": "Palouse",
+      "CountySeat": null,
+      "GNIS": 2411364,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5352950WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.076819759667501, 46.909685959622145]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 199,
+      "NAME": "Westport",
+      "CountySeat": null,
+      "GNIS": 2412243,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5377630WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.104260521960867, 46.886896789438786]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 200,
+      "NAME": "Royal City",
+      "CountySeat": null,
+      "GNIS": 2411011,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5360230WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.630977092929399, 46.901266632641779]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 201,
+      "NAME": "Colfax",
+      "CountySeat": "yes",
+      "GNIS": 2410191,
+      "LastUpdate": "2007/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 75,
+      "CityFIPS": "5313785WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.364640871757871, 46.879929890181558]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 202,
+      "NAME": "Rainier",
+      "CountySeat": null,
+      "GNIS": 2412521,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5357220WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.688925514287263, 46.888067117723295]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 203,
+      "NAME": "Eatonville",
+      "CountySeat": null,
+      "GNIS": 2412463,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 53,
+      "CityFIPS": "5320260WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.266709472021091, 46.867362190275408]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 204,
+      "NAME": "Tenino",
+      "CountySeat": null,
+      "GNIS": 2412048,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5370630WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.850504209170566, 46.857944289300484]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 205,
+      "NAME": "Othello",
+      "CountySeat": null,
+      "GNIS": 2411341,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 1,
+      "CityFIPS": "5352215WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.175351552452838, 46.826199171025706]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 206,
+      "NAME": "Oakville",
+      "CountySeat": null,
+      "GNIS": 2411298,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 27,
+      "CityFIPS": "5350430WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.232850672919128, 46.840830776085269]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 207,
+      "NAME": "La Crosse",
+      "CountySeat": null,
+      "GNIS": 2412853,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5336850WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88095568258943, 46.814127032513902]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 208,
+      "NAME": "Bucoda",
+      "CountySeat": null,
+      "GNIS": 2411738,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 67,
+      "CityFIPS": "5308605WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.868214362503238, 46.798250069970052]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 209,
+      "NAME": "Albion",
+      "CountySeat": null,
+      "GNIS": 2412345,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5301010WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.250918679491406, 46.789518837204078]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 210,
+      "NAME": "Hatton",
+      "CountySeat": null,
+      "GNIS": 2412736,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 1,
+      "CityFIPS": "5330060WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.828235603303924, 46.774792516795792]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 211,
+      "NAME": "Washtucna",
+      "CountySeat": null,
+      "GNIS": 2413453,
+      "LastUpdate": "2006/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 1,
+      "CityFIPS": "5376440WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.313561026781926, 46.753103225488644]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 212,
+      "NAME": "Centralia",
+      "CountySeat": null,
+      "GNIS": 2409429,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 41,
+      "CityFIPS": "5311160WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.954255238414461, 46.716211393723896]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 213,
+      "NAME": "Pullman",
+      "CountySeat": null,
+      "GNIS": 2411502,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 75,
+      "CityFIPS": "5356625WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.181772110313844, 46.729723421755402]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 214,
+      "NAME": "Mattawa",
+      "CountySeat": null,
+      "GNIS": 2412963,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 25,
+      "CityFIPS": "5344165WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.902303538089868, 46.737600328140317]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 215,
+      "NAME": "Naches",
+      "CountySeat": null,
+      "GNIS": 2413032,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5347805WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.701214781719997, 46.730884281113106]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 216,
+      "NAME": "Tieton",
+      "CountySeat": null,
+      "GNIS": 2413390,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5371400WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.75746670058065, 46.703803918293239]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 217,
+      "NAME": "Connell",
+      "CountySeat": null,
+      "GNIS": 2410216,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 21,
+      "CityFIPS": "5314485WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.861250517544676, 46.661420642805787]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 218,
+      "NAME": "Raymond",
+      "CountySeat": null,
+      "GNIS": 2411525,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 49,
+      "CityFIPS": "5357430WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.733298943549144, 46.68559787706711]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 219,
+      "NAME": "Chehalis",
+      "CountySeat": "yes",
+      "GNIS": 2409439,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 41,
+      "CityFIPS": "5311475WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.969904949929145, 46.664994432332414]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 220,
+      "NAME": "South Bend",
+      "CountySeat": "yes",
+      "GNIS": 2411933,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 49,
+      "CityFIPS": "5365625WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.812417589626463, 46.666575180979379]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 221,
+      "NAME": "Selah",
+      "CountySeat": null,
+      "GNIS": 2411862,
+      "LastUpdate": "2007/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5363280WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.530505881694424, 46.653916741393729]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 222,
+      "NAME": "Kahlotus",
+      "CountySeat": null,
+      "GNIS": 2410159,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 21,
+      "CityFIPS": "5334575WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.556469204556464, 46.642112691319682]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 223,
+      "NAME": "Yakima",
+      "CountySeat": "yes",
+      "GNIS": 2412314,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 77,
+      "CityFIPS": "5380010WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.506125400782153, 46.602191186350026]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 224,
+      "NAME": "Napavine",
+      "CountySeat": null,
+      "GNIS": 2411210,
+      "LastUpdate": "2006/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5347980WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.910506039614958, 46.575344066223913]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 225,
+      "NAME": "Mesa",
+      "CountySeat": null,
+      "GNIS": 2411088,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 21,
+      "CityFIPS": "5345180WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.006808923359088, 46.576579997643435]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 226,
+      "NAME": "Pe Ell",
+      "CountySeat": null,
+      "GNIS": 2413122,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5353930WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.297697527668646, 46.570088676986892]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 227,
+      "NAME": "Union Gap",
+      "CountySeat": null,
+      "GNIS": 2412131,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5373290WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.475106365410468, 46.557141824011516]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 228,
+      "NAME": "Moxee",
+      "CountySeat": null,
+      "GNIS": 2411188,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5347665WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.385638172364068, 46.554271878628882]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 229,
+      "NAME": "Colton",
+      "CountySeat": null,
+      "GNIS": 2413231,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5313890WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.128455932416898, 46.567917796947697]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 230,
+      "NAME": "Morton",
+      "CountySeat": null,
+      "GNIS": 2411171,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5347175WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.275272179679817, 46.55835183980011]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 231,
+      "NAME": "Uniontown",
+      "CountySeat": null,
+      "GNIS": 2413413,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 75,
+      "CityFIPS": "5373360WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.087805748541626, 46.540474010357642]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 232,
+      "NAME": "Mossyrock",
+      "CountySeat": null,
+      "GNIS": 2411175,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5347315WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.485390565148379, 46.528953447817699]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 233,
+      "NAME": "Starbuck",
+      "CountySeat": null,
+      "GNIS": 2413330,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 13,
+      "CityFIPS": "5367490WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.127517657770795, 46.517758197431398]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 234,
+      "NAME": "Winlock",
+      "CountySeat": null,
+      "GNIS": 2412283,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5379275WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.936856077017069, 46.491012334653625]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 235,
+      "NAME": "Pomeroy",
+      "CountySeat": "yes",
+      "GNIS": 2411453,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 23,
+      "CityFIPS": "5355120WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.597130632312698, 46.47415818084243]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 236,
+      "NAME": "Wapato",
+      "CountySeat": null,
+      "GNIS": 2412178,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5376125WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.419947002928765, 46.44771100781221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 237,
+      "NAME": "Toledo",
+      "CountySeat": null,
+      "GNIS": 2412077,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5371785WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.847416282414343, 46.439641723673567]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 238,
+      "NAME": "Clarkston",
+      "CountySeat": null,
+      "GNIS": 2409469,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 3,
+      "CityFIPS": "5312630WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.045460973588689, 46.412636002577393]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 239,
+      "NAME": "Zillah",
+      "CountySeat": null,
+      "GNIS": 2412331,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5380500WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.2624707615673, 46.402131039203439]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 240,
+      "NAME": "Vader",
+      "CountySeat": null,
+      "GNIS": 2412140,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 41,
+      "CityFIPS": "5373780WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.960309305401424, 46.401944080817152]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 241,
+      "NAME": "Harrah",
+      "CountySeat": null,
+      "GNIS": 2412728,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5329710WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.544225670195459, 46.40459390512347]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 242,
+      "NAME": "Toppenish",
+      "CountySeat": null,
+      "GNIS": 2412086,
+      "LastUpdate": "2007/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 77,
+      "CityFIPS": "5371960WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.315202651523194, 46.378699290999457]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 243,
+      "NAME": "Long Beach",
+      "CountySeat": null,
+      "GNIS": 2410867,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 49,
+      "CityFIPS": "5340070WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.054491191020887, 46.351459160843575]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 244,
+      "NAME": "Richland",
+      "CountySeat": null,
+      "GNIS": 2410937,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 5,
+      "CityFIPS": "5358235WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.275366883999169, 46.280484369518739]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 245,
+      "NAME": "West Richland",
+      "CountySeat": null,
+      "GNIS": 2412227,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 5,
+      "CityFIPS": "5377665WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.34960301258414, 46.300641158513884]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 246,
+      "NAME": "Granger",
+      "CountySeat": null,
+      "GNIS": 2410640,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5327960WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.19517962257747, 46.34071686803717]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 247,
+      "NAME": "Asotin",
+      "CountySeat": "yes",
+      "GNIS": 2409742,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 3,
+      "CityFIPS": "5303075WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.051754177238763, 46.340050439197626]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 248,
+      "NAME": "Sunnyside",
+      "CountySeat": null,
+      "GNIS": 2412008,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 77,
+      "CityFIPS": "5368750WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.013056441415017, 46.320093336754866]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 249,
+      "NAME": "Dayton",
+      "CountySeat": "yes",
+      "GNIS": 2410301,
+      "LastUpdate": null,
+      "MajorCity": "yes",
+      "CountyFIPS": 13,
+      "CityFIPS": "5316970WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.977681075851095, 46.321005107687114]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 250,
+      "NAME": "Ilwaco",
+      "CountySeat": null,
+      "GNIS": 2410095,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 49,
+      "CityFIPS": "5333000WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.04335791714621, 46.308850501968351]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 251,
+      "NAME": "Prescott",
+      "CountySeat": null,
+      "GNIS": 2412506,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 71,
+      "CityFIPS": "5356240WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.313291720659947, 46.29957039643201]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 252,
+      "NAME": "Pasco",
+      "CountySeat": "yes",
+      "GNIS": 2411381,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 21,
+      "CityFIPS": "5353545WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.091984825072174, 46.230523383558413]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 253,
+      "NAME": "Castle Rock",
+      "CountySeat": null,
+      "GNIS": 2409409,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 15,
+      "CityFIPS": "5310565WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.907186444329525, 46.274806074884211]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 254,
+      "NAME": "Benton City",
+      "CountySeat": null,
+      "GNIS": 2409836,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": null,
+      "CountyFIPS": 5,
+      "CityFIPS": "5305560WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.487619373185026, 46.263969509566479]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 255,
+      "NAME": "Grandview",
+      "CountySeat": null,
+      "GNIS": 2410638,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 77,
+      "CityFIPS": "5327925WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.901990936195205, 46.254807441526452]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 256,
+      "NAME": "Waitsburg",
+      "CountySeat": null,
+      "GNIS": 2412165,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 71,
+      "CityFIPS": "5375565WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.154946953768189, 46.27003645316848]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 257,
+      "NAME": "Kennewick",
+      "CountySeat": null,
+      "GNIS": 2410184,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 5,
+      "CityFIPS": "5335275WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.116897243900993, 46.208659124995997]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 258,
+      "NAME": "Prosser",
+      "CountySeat": "yes",
+      "GNIS": 2411497,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 5,
+      "CityFIPS": "5356450WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.769502932887619, 46.205044417327095]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 259,
+      "NAME": "Mabton",
+      "CountySeat": null,
+      "GNIS": 2410904,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 77,
+      "CityFIPS": "5340980WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.998447458640854, 46.21108836793109]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 260,
+      "NAME": "Cathlamet",
+      "CountySeat": "yes",
+      "GNIS": 2413181,
+      "LastUpdate": "2005/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 69,
+      "CityFIPS": "5310635WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.384504798267216, 46.20138305223999]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 261,
+      "NAME": "Longview",
+      "CountySeat": null,
+      "GNIS": 2410871,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 15,
+      "CityFIPS": "5340245WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.933632237737953, 46.138340289175176]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 262,
+      "NAME": "Kelso",
+      "CountySeat": "yes",
+      "GNIS": 2410174,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 15,
+      "CityFIPS": "5335065WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.911616209843956, 46.144136868916384]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 263,
+      "NAME": "Walla Walla",
+      "CountySeat": "yes",
+      "GNIS": 2412168,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 71,
+      "CityFIPS": "5375775WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.337313082387226, 46.068008743807241]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 264,
+      "NAME": "College Place",
+      "CountySeat": null,
+      "GNIS": 2410192,
+      "LastUpdate": "2008/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 71,
+      "CityFIPS": "5313855WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.388423549755927, 46.045548118510347]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 265,
+      "NAME": "Kalama",
+      "CountySeat": null,
+      "GNIS": 2410160,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 15,
+      "CityFIPS": "5334645WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.844806883085397, 46.008595769023785]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 266,
+      "NAME": "Woodland",
+      "CountySeat": null,
+      "GNIS": 2412301,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 15,
+      "CityFIPS": "5379625WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.744082985213637, 45.904492486873323]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 267,
+      "NAME": "La Center",
+      "CountySeat": null,
+      "GNIS": 2411566,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5336710WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.672666075018839, 45.861923678218254]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 268,
+      "NAME": "Yacolt",
+      "CountySeat": null,
+      "GNIS": 2413517,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5379975WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.410299218332995, 45.866762790130338]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 269,
+      "NAME": "Goldendale",
+      "CountySeat": "yes",
+      "GNIS": 2410612,
+      "LastUpdate": "2006/05/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 39,
+      "CityFIPS": "5327435WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.822558803549043, 45.822196275973127]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 270,
+      "NAME": "Ridgefield",
+      "CountySeat": null,
+      "GNIS": 2410945,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5358410WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.746138154923159, 45.815366539622396]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 271,
+      "NAME": "Battle Ground",
+      "CountySeat": null,
+      "GNIS": 2409796,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5304475WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.529654319693464, 45.781061392585976]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 272,
+      "NAME": "White Salmon",
+      "CountySeat": null,
+      "GNIS": 2412254,
+      "LastUpdate": "2009/05/31",
+      "MajorCity": null,
+      "CountyFIPS": 39,
+      "CityFIPS": "5378330WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.484060565985303, 45.72716909077733]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 273,
+      "NAME": "Bingen",
+      "CountySeat": null,
+      "GNIS": 2409850,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 39,
+      "CityFIPS": "5306085WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.466427573151663, 45.714794941207089]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 274,
+      "NAME": "Stevenson",
+      "CountySeat": "yes",
+      "GNIS": 2411980,
+      "LastUpdate": "2008/02/28",
+      "MajorCity": "yes",
+      "CountyFIPS": 59,
+      "CityFIPS": "5367875WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.883787831635743, 45.693486737176016]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 275,
+      "NAME": "Vancouver",
+      "CountySeat": "yes",
+      "GNIS": 2412146,
+      "LastUpdate": "2009/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 11,
+      "CityFIPS": "5374060WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.671609172627399, 45.628783718431052]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 276,
+      "NAME": "North Bonneville",
+      "CountySeat": null,
+      "GNIS": 2411271,
+      "LastUpdate": null,
+      "MajorCity": null,
+      "CountyFIPS": 59,
+      "CityFIPS": "5349555WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.971286627536657, 45.640050824905671]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 277,
+      "NAME": "Camas",
+      "CountySeat": null,
+      "GNIS": 2409967,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5309480WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.403347039900481, 45.586180503912146]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 278,
+      "NAME": "Washougal",
+      "CountySeat": null,
+      "GNIS": 2412189,
+      "LastUpdate": "2008/08/31",
+      "MajorCity": null,
+      "CountyFIPS": 11,
+      "CityFIPS": "5376405WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.355660014117547, 45.579162690580425]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 279,
+      "NAME": "Snoqualmie",
+      "CountySeat": null,
+      "GNIS": 2411915,
+      "LastUpdate": "2009/02/28",
+      "MajorCity": null,
+      "CountyFIPS": 33,
+      "CityFIPS": "5365205WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.824146397930704, 47.527161881813974]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 280,
+      "NAME": "Oak Harbor",
+      "CountySeat": null,
+      "GNIS": 2411287,
+      "LastUpdate": "2008/11/30",
+      "MajorCity": "yes",
+      "CountyFIPS": 29,
+      "CityFIPS": "5350360WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.644018400481031, 48.289635464057838]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 281,
+      "NAME": "Tacoma",
+      "CountySeat": "yes",
+      "GNIS": 2412025,
+      "LastUpdate": "2006/08/31",
+      "MajorCity": "yes",
+      "CountyFIPS": 53,
+      "CityFIPS": "5370000WA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.440097136359299, 47.253172271414293]
+    }
+  }
+]
